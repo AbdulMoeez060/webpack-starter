@@ -1,1 +1,2 @@
-# webpack-starter
+# Webpack
+ Project Starter files
