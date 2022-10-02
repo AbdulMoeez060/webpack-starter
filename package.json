@@ -4,7 +4,7 @@
   "description": "Starter files for any project with webpack setup.",
   "main": "index.js",
   "scripts": {
-    "build": "webpack --mode production"
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
