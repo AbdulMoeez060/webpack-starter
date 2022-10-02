@@ -21,7 +21,8 @@ module.exports = {
     plugins: [
         new HtmlWebpackPlugin({
             title: 'Webpack App',
-            filename: 'index.html'
+            filename: 'index.html',
+            template: 'src/template.html'
         }),
     ],
 }
