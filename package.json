@@ -1,0 +1,19 @@
+{
+  "name": "webpack-starter",
+  "version": "1.0.0",
+  "description": "Starter files for any project with webpack setup.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdulMoeez060/webpack-starter.git"
+  },
+  "author": "Abdul Moeez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbdulMoeez060/webpack-starter/issues"
+  },
+  "homepage": "https://github.com/AbdulMoeez060/webpack-starter#readme"
+}
